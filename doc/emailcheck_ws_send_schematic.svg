@@ -1,90 +1,415 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="205mm" height="76mm" version="1.1" viewBox="0 0 205 76" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
- <defs>
-  <marker id="marker5500" style="overflow:visible" orient="auto">
-   <g transform="scale(-1)" style="stroke:#000">
-    <path d="m-4-4 4 4" style="fill-rule:evenodd;stroke-linecap:round;stroke-width:.8;stroke:#000"/>
-    <path d="m-1-4 4 4" style="fill-rule:evenodd;stroke-linecap:round;stroke-width:.8;stroke:#000"/>
-    <path d="m1-4 4 4" style="fill-rule:evenodd;stroke-linecap:round;stroke-width:.8;stroke:#000"/>
-    <path d="m-4 4 4-4" style="fill-rule:evenodd;stroke-linecap:round;stroke-width:.8;stroke:#000"/>
-    <path d="m-1 4 4-4" style="fill-rule:evenodd;stroke-linecap:round;stroke-width:.8;stroke:#000"/>
-    <path d="m1 4 4-4" style="fill-rule:evenodd;stroke-linecap:round;stroke-width:.8;stroke:#000"/>
-   </g>
-  </marker>
-  <marker id="marker4988" style="overflow:visible" orient="auto">
-   <g transform="scale(-1)" style="stroke:#000">
-    <path d="m-4-4 4 4" style="fill-rule:evenodd;stroke-linecap:round;stroke-width:.8;stroke:#000"/>
-    <path d="m-1-4 4 4" style="fill-rule:evenodd;stroke-linecap:round;stroke-width:.8;stroke:#000"/>
-    <path d="m1-4 4 4" style="fill-rule:evenodd;stroke-linecap:round;stroke-width:.8;stroke:#000"/>
-    <path d="m-4 4 4-4" style="fill-rule:evenodd;stroke-linecap:round;stroke-width:.8;stroke:#000"/>
-    <path d="m-1 4 4-4" style="fill-rule:evenodd;stroke-linecap:round;stroke-width:.8;stroke:#000"/>
-    <path d="m1 4 4-4" style="fill-rule:evenodd;stroke-linecap:round;stroke-width:.8;stroke:#000"/>
-   </g>
-  </marker>
-  <marker id="marker4988-6" style="overflow:visible" orient="auto">
-   <g transform="scale(-1)" style="stroke:#000">
-    <path d="m-4-4 4 4" style="fill-rule:evenodd;stroke-linecap:round;stroke-width:.8;stroke:#000"/>
-    <path d="m-1-4 4 4" style="fill-rule:evenodd;stroke-linecap:round;stroke-width:.8;stroke:#000"/>
-    <path d="m1-4 4 4" style="fill-rule:evenodd;stroke-linecap:round;stroke-width:.8;stroke:#000"/>
-    <path d="m-4 4 4-4" style="fill-rule:evenodd;stroke-linecap:round;stroke-width:.8;stroke:#000"/>
-    <path d="m-1 4 4-4" style="fill-rule:evenodd;stroke-linecap:round;stroke-width:.8;stroke:#000"/>
-    <path d="m1 4 4-4" style="fill-rule:evenodd;stroke-linecap:round;stroke-width:.8;stroke:#000"/>
-   </g>
-  </marker>
-  <marker id="marker5500-8" style="overflow:visible" orient="auto">
-   <g transform="scale(-1)" style="stroke:#000">
-    <path d="m-4-4 4 4" style="fill-rule:evenodd;stroke-linecap:round;stroke-width:.8;stroke:#000"/>
-    <path d="m-1-4 4 4" style="fill-rule:evenodd;stroke-linecap:round;stroke-width:.8;stroke:#000"/>
-    <path d="m1-4 4 4" style="fill-rule:evenodd;stroke-linecap:round;stroke-width:.8;stroke:#000"/>
-    <path d="m-4 4 4-4" style="fill-rule:evenodd;stroke-linecap:round;stroke-width:.8;stroke:#000"/>
-    <path d="m-1 4 4-4" style="fill-rule:evenodd;stroke-linecap:round;stroke-width:.8;stroke:#000"/>
-    <path d="m1 4 4-4" style="fill-rule:evenodd;stroke-linecap:round;stroke-width:.8;stroke:#000"/>
-   </g>
-  </marker>
-  <radialGradient id="radialGradient10963" cx="31" cy="58" r="32" gradientTransform="matrix(.9 0 0 .6 6 26)" gradientUnits="userSpaceOnUse">
-   <stop style="stop-color:#f55" offset="0"/>
-   <stop style="stop-color:#f55;stop-opacity:0" offset="1"/>
-  </radialGradient>
- </defs>
- <metadata>
-  <rdf:RDF>
-   <cc:Work rdf:about="">
-    <dc:format>image/svg+xml</dc:format>
-    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:title/>
-   </cc:Work>
-  </rdf:RDF>
- </metadata>
- <g transform="translate(-3 -1)">
-  <rect x="78" y="1" width="44" height="33" ry="9" style="fill:#f00;stroke-width:.6;stroke:#f00"/>
-  <rect x="152" y="1" width="56" height="33" ry="5" style="fill:#aaf"/>
-  <rect x="3" y="5" width="56" height="17"/>
-  <text x="5.3453908" y="16.634266" style="fill:#ffffff;font-family:sans-serif;font-size:11px;letter-spacing:0px;line-height:1.25;stroke-width:.3;word-spacing:0px" xml:space="preserve"><tspan x="5.3453908" y="16.634266" style="fill:#ffffff;stroke-width:.3">ws_send</tspan></text>
-  <path d="m64 12 13 0.02" style="fill:none;marker-start:url(#marker5500);stroke-width:.5;stroke:#000"/>
-  <path d="m128 13 21 1e-6" style="fill:none;marker-start:url(#marker4988);stroke-width:.5;stroke:#000"/>
-  <text x="155.84877" y="10.350011" style="fill:#ffffff;font-family:sans-serif;font-size:7px;letter-spacing:0px;line-height:1.25;stroke-width:.2;word-spacing:0px" xml:space="preserve"><tspan x="155.84877" y="10.350011" style="fill:#ffffff;stroke-width:.2">Email Server</tspan></text>
-  <text x="83.750519" y="13.872579" style="fill:#ffffff;font-family:sans-serif;font-size:11px;letter-spacing:0px;line-height:1.25;stroke-width:.3;word-spacing:0px" xml:space="preserve"><tspan x="83.750519" y="13.872579" style="fill:#ffffff;stroke-width:.3">Email</tspan><tspan x="83.750519" y="27.101746" style="fill:#ffffff;stroke-width:.3">Check</tspan></text>
-  <g transform="matrix(.9 0 0 .9 18 -51)">
-   <path d="m165 72 16 11 16-11z" style="fill:#fea"/>
-   <path d="m165 81c0-5 0.03-8 0.07-8 0.04 0 4 2 8 5 4 3 8 5 8 5 0.07-0.02 3-2 7-5 4-3 7-5 8-5l0.6-0.4v17h-31z" style="fill:#ffd42a"/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="205mm"
+   height="76mm"
+   version="1.1"
+   viewBox="0 0 205 76"
+   id="svg1193"
+   sodipodi:docname="emailcheck_ws_send_schematic.svg"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1680"
+     inkscape:window-height="987"
+     id="namedview1195"
+     showgrid="false"
+     inkscape:zoom="1.979899"
+     inkscape:cx="516.26563"
+     inkscape:cy="167.31547"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1193" />
+  <defs
+     id="defs1111">
+    <marker
+       id="marker5500"
+       style="overflow:visible"
+       orient="auto">
+      <g
+         transform="scale(-1)"
+         style="stroke:#000"
+         id="g1058">
+        <path
+           d="m-4-4 4 4"
+           style="fill-rule:evenodd;stroke-linecap:round;stroke-width:.8;stroke:#000"
+           id="path1046" />
+        <path
+           d="m-1-4 4 4"
+           style="fill-rule:evenodd;stroke-linecap:round;stroke-width:.8;stroke:#000"
+           id="path1048" />
+        <path
+           d="m1-4 4 4"
+           style="fill-rule:evenodd;stroke-linecap:round;stroke-width:.8;stroke:#000"
+           id="path1050" />
+        <path
+           d="m-4 4 4-4"
+           style="fill-rule:evenodd;stroke-linecap:round;stroke-width:.8;stroke:#000"
+           id="path1052" />
+        <path
+           d="m-1 4 4-4"
+           style="fill-rule:evenodd;stroke-linecap:round;stroke-width:.8;stroke:#000"
+           id="path1054" />
+        <path
+           d="m1 4 4-4"
+           style="fill-rule:evenodd;stroke-linecap:round;stroke-width:.8;stroke:#000"
+           id="path1056" />
+      </g>
+    </marker>
+    <marker
+       id="marker4988"
+       style="overflow:visible"
+       orient="auto">
+      <g
+         transform="scale(-1)"
+         style="stroke:#000"
+         id="g1073">
+        <path
+           d="m-4-4 4 4"
+           style="fill-rule:evenodd;stroke-linecap:round;stroke-width:.8;stroke:#000"
+           id="path1061" />
+        <path
+           d="m-1-4 4 4"
+           style="fill-rule:evenodd;stroke-linecap:round;stroke-width:.8;stroke:#000"
+           id="path1063" />
+        <path
+           d="m1-4 4 4"
+           style="fill-rule:evenodd;stroke-linecap:round;stroke-width:.8;stroke:#000"
+           id="path1065" />
+        <path
+           d="m-4 4 4-4"
+           style="fill-rule:evenodd;stroke-linecap:round;stroke-width:.8;stroke:#000"
+           id="path1067" />
+        <path
+           d="m-1 4 4-4"
+           style="fill-rule:evenodd;stroke-linecap:round;stroke-width:.8;stroke:#000"
+           id="path1069" />
+        <path
+           d="m1 4 4-4"
+           style="fill-rule:evenodd;stroke-linecap:round;stroke-width:.8;stroke:#000"
+           id="path1071" />
+      </g>
+    </marker>
+    <marker
+       id="marker4988-6"
+       style="overflow:visible"
+       orient="auto">
+      <g
+         transform="scale(-1)"
+         style="stroke:#000"
+         id="g1088">
+        <path
+           d="m-4-4 4 4"
+           style="fill-rule:evenodd;stroke-linecap:round;stroke-width:.8;stroke:#000"
+           id="path1076" />
+        <path
+           d="m-1-4 4 4"
+           style="fill-rule:evenodd;stroke-linecap:round;stroke-width:.8;stroke:#000"
+           id="path1078" />
+        <path
+           d="m1-4 4 4"
+           style="fill-rule:evenodd;stroke-linecap:round;stroke-width:.8;stroke:#000"
+           id="path1080" />
+        <path
+           d="m-4 4 4-4"
+           style="fill-rule:evenodd;stroke-linecap:round;stroke-width:.8;stroke:#000"
+           id="path1082" />
+        <path
+           d="m-1 4 4-4"
+           style="fill-rule:evenodd;stroke-linecap:round;stroke-width:.8;stroke:#000"
+           id="path1084" />
+        <path
+           d="m1 4 4-4"
+           style="fill-rule:evenodd;stroke-linecap:round;stroke-width:.8;stroke:#000"
+           id="path1086" />
+      </g>
+    </marker>
+    <marker
+       id="marker5500-8"
+       style="overflow:visible"
+       orient="auto">
+      <g
+         transform="scale(-1)"
+         style="stroke:#000"
+         id="g1103">
+        <path
+           d="m-4-4 4 4"
+           style="fill-rule:evenodd;stroke-linecap:round;stroke-width:.8;stroke:#000"
+           id="path1091" />
+        <path
+           d="m-1-4 4 4"
+           style="fill-rule:evenodd;stroke-linecap:round;stroke-width:.8;stroke:#000"
+           id="path1093" />
+        <path
+           d="m1-4 4 4"
+           style="fill-rule:evenodd;stroke-linecap:round;stroke-width:.8;stroke:#000"
+           id="path1095" />
+        <path
+           d="m-4 4 4-4"
+           style="fill-rule:evenodd;stroke-linecap:round;stroke-width:.8;stroke:#000"
+           id="path1097" />
+        <path
+           d="m-1 4 4-4"
+           style="fill-rule:evenodd;stroke-linecap:round;stroke-width:.8;stroke:#000"
+           id="path1099" />
+        <path
+           d="m1 4 4-4"
+           style="fill-rule:evenodd;stroke-linecap:round;stroke-width:.8;stroke:#000"
+           id="path1101" />
+      </g>
+    </marker>
+    <radialGradient
+       id="radialGradient10963"
+       cx="31"
+       cy="58"
+       r="32"
+       gradientTransform="matrix(0.63541666,0,0,0.42361111,6.1917991,35.079365)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         style="stop-color:#f55"
+         offset="0"
+         id="stop1106" />
+      <stop
+         style="stop-color:#f55;stop-opacity:0"
+         offset="1"
+         id="stop1108" />
+    </radialGradient>
+  </defs>
+  <metadata
+     id="metadata1113">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <rect
+     id="rect1115"
+     style="fill:#ff0000;stroke:#ff0000;stroke-width:0.60000002"
+     ry="9"
+     height="33"
+     width="44"
+     y="0"
+     x="75" />
+  <rect
+     id="rect1117"
+     style="fill:#aaaaff"
+     ry="5"
+     height="33"
+     width="56"
+     y="0"
+     x="149" />
+  <rect
+     id="rect1119"
+     height="17"
+     width="56"
+     y="4"
+     x="0" />
+  <text
+     id="text1123"
+     xml:space="preserve"
+     style="font-size:11px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;stroke-width:0.30000001"
+     y="15.634266"
+     x="2.3453908"><tspan
+       id="tspan1121"
+       style="fill:#ffffff;stroke-width:0.30000001"
+       y="15.634266"
+       x="2.3453908">ws_send</tspan></text>
+  <path
+     inkscape:connector-curvature="0"
+     id="path1125"
+     style="fill:none;stroke:#000000;stroke-width:0.5;marker-start:url(#marker5500)"
+     d="m 61,11 13,0.02" />
+  <path
+     inkscape:connector-curvature="0"
+     id="path1127"
+     style="fill:none;stroke:#000000;stroke-width:0.5;marker-start:url(#marker4988)"
+     d="m 125,12 21,10e-7" />
+  <text
+     id="text1131"
+     xml:space="preserve"
+     style="font-size:7px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;stroke-width:0.2"
+     y="9.3500109"
+     x="152.84877"><tspan
+       id="tspan1129"
+       style="fill:#ffffff;stroke-width:0.2"
+       y="9.3500109"
+       x="152.84877">Email Server</tspan></text>
+  <text
+     id="text1137"
+     xml:space="preserve"
+     style="font-size:11px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;stroke-width:0.30000001"
+     y="12.872579"
+     x="80.750519"><tspan
+       id="tspan1133"
+       style="fill:#ffffff;stroke-width:0.30000001"
+       y="12.872579"
+       x="80.750519">Email</tspan><tspan
+       id="tspan1135"
+       style="fill:#ffffff;stroke-width:0.30000001"
+       y="26.101746"
+       x="80.750519">Check</tspan></text>
+  <text
+     id="text1153"
+     xml:space="preserve"
+     style="font-size:6px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff0000;stroke-width:0.1"
+     y="19.313311"
+     x="123.11872"><tspan
+       id="tspan1151"
+       style="fill:#ff0000;stroke-width:0.1"
+       y="19.313311"
+       x="123.11872">Unread</tspan></text>
+  <text
+     id="text1157"
+     xml:space="preserve"
+     style="font-size:3.72383046px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;stroke-width:0.08378619"
+     y="33.682823"
+     x="118.54514"><tspan
+       id="tspan1155"
+       style="stroke-width:0.08378619"
+       y="33.682823"
+       x="118.54514">user@gmail.com</tspan></text>
+  <path
+     inkscape:connector-curvature="0"
+     id="path1159"
+     style="fill:none;stroke:#000000;stroke-width:0.5;marker-start:url(#marker4988-6)"
+     d="m 143,6 -21,1e-6" />
+  <text
+     id="text1163"
+     xml:space="preserve"
+     style="font-size:5px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#008000;stroke-width:0.1"
+     y="5.3595309"
+     x="120.39941"><tspan
+       id="tspan1161"
+       style="fill:#008000;stroke-width:0.1"
+       y="5.3595309"
+       x="120.39941">Unread ?</tspan></text>
+  <path
+     inkscape:connector-curvature="0"
+     id="path1171"
+     style="fill:none;stroke:#000000;stroke-width:0.5;marker-start:url(#marker5500-8)"
+     d="M 26,34 26.02,21" />
+  <text
+     id="text1175"
+     xml:space="preserve"
+     style="font-size:3px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;stroke-width:0.09"
+     y="30.751852"
+     x="28.669903"><tspan
+       id="tspan1173"
+       style="stroke-width:0.09"
+       y="30.751852"
+       x="28.669903">ws://localhost:42001</tspan></text>
+  <rect
+     id="rect1177"
+     style="fill-opacity:0;stroke-opacity:0"
+     height="23"
+     width="30"
+     y="39"
+     x="14" />
+  <rect
+     id="rect1179"
+     style="fill:#d40000;fill-opacity:0.8;stroke:#d40000;stroke-width:0.2"
+     height="12"
+     width="41"
+     y="52"
+     x="7" />
+  <path
+     inkscape:connector-curvature="0"
+     id="path1181"
+     style="fill:none;stroke:#000000;stroke-width:0.30000001px"
+     d="M 7,64 H 48" />
+  <rect
+     id="rect1183"
+     style="fill:#ac9393;stroke:#ac9393;stroke-width:0.2"
+     height="12"
+     width="41"
+     y="64"
+     x="7" />
+  <ellipse
+     id="ellipse1185"
+     style="fill:url(#radialGradient10963);stroke-width:0.70601851"
+     ry="12.708333"
+     rx="19.768518"
+     cy="58.377972"
+     cx="24.548281" />
+  <text
+     id="text1189"
+     xml:space="preserve"
+     style="font-size:11px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff0000;stroke-width:0.30000001"
+     y="45.191494"
+     x="14.497612"><tspan
+       id="tspan1187"
+       style="fill:#ff0000;stroke-width:0.30000001"
+       y="45.191494"
+       x="14.497612">Leds</tspan></text>
+  <g
+     transform="matrix(0.65185982,0,0,0.65185982,19.718004,10.942866)"
+     id="g1116-4">
+    <path
+       sodipodi:nodetypes="cccc"
+       style="fill:#ffeeaa;stroke-width:0.89999998"
+       inkscape:connector-curvature="0"
+       id="path73-3"
+       d="m 162.69773,14.183529 14.337,9.305386 13.95031,-9.741733 z" />
+    <path
+       sodipodi:nodetypes="csscsccccc"
+       style="fill:#ffd42a;stroke-width:0.89999998"
+       inkscape:connector-curvature="0"
+       id="path75-9"
+       d="m 162.88922,21.408978 c 0,-4.5 -0.22749,-7.225449 -0.19149,-7.225449 0.036,0 3.44731,1.723653 7.04731,4.423653 3.6,2.7 7.2,4.5 7.2,4.5 0.063,-0.018 2.7,-1.8 6.3,-4.5 3.6,-2.7 6.3,-4.5 7.2,-4.5 l 0.54,-0.36 v 15.3 h -27.9 z" />
   </g>
-  <g transform="matrix(.5 0 0 .5 39 -17)">
-   <path d="m165 72 16 11 16-11z" style="fill:#fea"/>
-   <path d="m165 81c0-5 0.03-8 0.07-8 0.04 0 4 2 8 5 4 3 8 5 8 5 0.07-0.02 3-2 7-5 4-3 7-5 8-5l0.6-0.4v17h-31z" style="fill:#ffd42a"/>
+  <g
+     transform="translate(-0.01258626,-0.10390411)"
+     id="g1116">
+    <path
+       sodipodi:nodetypes="cccc"
+       style="fill:#ffeeaa;stroke-width:0.89999998"
+       inkscape:connector-curvature="0"
+       id="path73"
+       d="m 162.69773,14.183529 14.337,9.305386 13.95031,-9.741733 z" />
+    <path
+       sodipodi:nodetypes="csscsccccc"
+       style="fill:#ffd42a;stroke-width:0.89999998"
+       inkscape:connector-curvature="0"
+       id="path75"
+       d="m 162.88922,21.408978 c 0,-4.5 -0.22749,-7.225449 -0.19149,-7.225449 0.036,0 3.44731,1.723653 7.04731,4.423653 3.6,2.7 7.2,4.5 7.2,4.5 0.063,-0.018 2.7,-1.8 6.3,-4.5 3.6,-2.7 6.3,-4.5 7.2,-4.5 l 0.54,-0.36 v 15.3 h -27.9 z" />
   </g>
-  <text x="126.11872" y="20.313311" style="fill:#ff0000;font-family:sans-serif;font-size:6px;letter-spacing:0px;line-height:1.25;stroke-width:.1;word-spacing:0px" xml:space="preserve"><tspan x="126.11872" y="20.313311" style="fill:#ff0000;stroke-width:.1">Unread</tspan></text>
-  <text x="122.05622" y="34.892647" style="fill:#000000;font-family:sans-serif;font-size:4px;letter-spacing:0px;line-height:1.25;stroke-width:.09;word-spacing:0px" xml:space="preserve"><tspan x="122.05622" y="34.892647" style="stroke-width:.09">user@gmail.com</tspan></text>
-  <path d="m146 7-21 1e-6" style="fill:none;marker-start:url(#marker4988-6);stroke-width:.5;stroke:#000"/>
-  <text x="123.39941" y="6.3595309" style="fill:#008000;font-family:sans-serif;font-size:5px;letter-spacing:0px;line-height:1.25;stroke-width:.1;word-spacing:0px" xml:space="preserve"><tspan x="123.39941" y="6.3595309" style="fill:#008000;stroke-width:.1">Unread ?</tspan></text>
-  <ellipse cx="144" cy="24" rx="3" ry="3" style="fill:#f00;stroke-width:.3;stroke:#000"/>
-  <text x="143.5488" y="24.518715" style="fill:#ffffff;font-family:sans-serif;font-size:3px;letter-spacing:0px;line-height:1.25;stroke-width:.3;word-spacing:0px" xml:space="preserve"><tspan x="143.5488" y="24.518715" style="fill:#ffffff;font-size:3px;stroke-width:.3">1</tspan></text>
-  <path d="m29 35 0.02-13" style="fill:none;marker-start:url(#marker5500-8);stroke-width:.5;stroke:#000"/>
-  <text x="31.669903" y="31.751852" style="fill:#000000;font-family:sans-serif;font-size:3px;letter-spacing:0px;line-height:1.25;stroke-width:.09;word-spacing:0px" xml:space="preserve"><tspan x="31.669903" y="31.751852" style="stroke-width:.09">ws://localhost:42001</tspan></text>
-  <rect x="17" y="40" width="30" height="23" style="fill-opacity:0;stroke-opacity:0"/>
-  <rect x="10" y="53" width="41" height="12" style="fill-opacity:.8;fill:#d40000;stroke-width:.2;stroke:#d40000"/>
-  <path d="m10 65h41" style="fill:none;stroke-width:.3px;stroke:#000"/>
-  <rect x="10" y="65" width="41" height="12" style="fill:#ac9393;stroke-width:.2;stroke:#ac9393"/>
-  <ellipse cx="32" cy="59" rx="28" ry="18" style="fill:url(#radialGradient10963)"/>
-  <text x="17.497612" y="46.191494" style="fill:#ff0000;font-family:sans-serif;font-size:11px;letter-spacing:0px;line-height:1.25;stroke-width:.3;word-spacing:0px" xml:space="preserve"><tspan x="17.497612" y="46.191494" style="fill:#ff0000;stroke-width:.3">Leds</tspan></text>
- </g>
+  <circle
+     cx="142.23441"
+     cy="21.649101"
+     id="ellipse99"
+     r="1.8123851"
+     style="fill:#ff0000;stroke:#000000;stroke-width:0.18123852" />
+  <text
+     x="141.27423"
+     y="22.778587"
+     font-size="3px"
+     letter-spacing="0px"
+     word-spacing="0px"
+     style="font-size:3.00000024px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;stroke-width:0.30000001"
+     xml:space="preserve"
+     id="text103"><tspan
+       x="141.27423"
+       y="22.778587"
+       font-size="3px"
+       id="tspan101"
+       style="font-size:3.00000024px;fill:#ffffff;stroke-width:0.30000001">1</tspan></text>
 </svg>
