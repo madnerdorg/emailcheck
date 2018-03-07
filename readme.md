@@ -6,7 +6,7 @@ You can customized which command is execute depending on the email address.
 It is available for **Windows** / **Raspberry Pi**.
 
 
-[Downloads]()
+[Downloads](https://github.com/madnerdorg/emailcheck/releases)
 
 # Settings
 To configure your email address/password in emailcheck, you will have to 
