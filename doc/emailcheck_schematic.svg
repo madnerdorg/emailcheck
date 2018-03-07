@@ -1,0 +1,60 @@
+<svg width="205mm" height="35mm" version="1.1" viewBox="0 0 205 35" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <marker id="marker5500" overflow="visible" orient="auto">
+   <g transform="scale(-1)">
+    <path d="m-4-4 4 4" fill-rule="evenodd" stroke="#000" stroke-linecap="round" stroke-width=".8"/>
+    <path d="m-1-4 4 4" fill-rule="evenodd" stroke="#000" stroke-linecap="round" stroke-width=".8"/>
+    <path d="m1-4 4 4" fill-rule="evenodd" stroke="#000" stroke-linecap="round" stroke-width=".8"/>
+    <path d="m-4 4 4-4" fill-rule="evenodd" stroke="#000" stroke-linecap="round" stroke-width=".8"/>
+    <path d="m-1 4 4-4" fill-rule="evenodd" stroke="#000" stroke-linecap="round" stroke-width=".8"/>
+    <path d="m1 4 4-4" fill-rule="evenodd" stroke="#000" stroke-linecap="round" stroke-width=".8"/>
+   </g>
+  </marker>
+  <marker id="marker4988" overflow="visible" orient="auto">
+   <g transform="scale(-1)">
+    <path d="m-4-4 4 4" fill-rule="evenodd" stroke="#000" stroke-linecap="round" stroke-width=".8"/>
+    <path d="m-1-4 4 4" fill-rule="evenodd" stroke="#000" stroke-linecap="round" stroke-width=".8"/>
+    <path d="m1-4 4 4" fill-rule="evenodd" stroke="#000" stroke-linecap="round" stroke-width=".8"/>
+    <path d="m-4 4 4-4" fill-rule="evenodd" stroke="#000" stroke-linecap="round" stroke-width=".8"/>
+    <path d="m-1 4 4-4" fill-rule="evenodd" stroke="#000" stroke-linecap="round" stroke-width=".8"/>
+    <path d="m1 4 4-4" fill-rule="evenodd" stroke="#000" stroke-linecap="round" stroke-width=".8"/>
+   </g>
+  </marker>
+  <marker id="marker4988-6" overflow="visible" orient="auto">
+   <g transform="scale(-1)">
+    <path d="m-4-4 4 4" fill-rule="evenodd" stroke="#000" stroke-linecap="round" stroke-width=".8"/>
+    <path d="m-1-4 4 4" fill-rule="evenodd" stroke="#000" stroke-linecap="round" stroke-width=".8"/>
+    <path d="m1-4 4 4" fill-rule="evenodd" stroke="#000" stroke-linecap="round" stroke-width=".8"/>
+    <path d="m-4 4 4-4" fill-rule="evenodd" stroke="#000" stroke-linecap="round" stroke-width=".8"/>
+    <path d="m-1 4 4-4" fill-rule="evenodd" stroke="#000" stroke-linecap="round" stroke-width=".8"/>
+    <path d="m1 4 4-4" fill-rule="evenodd" stroke="#000" stroke-linecap="round" stroke-width=".8"/>
+   </g>
+  </marker>
+ </defs>
+ <g transform="translate(-3 -1)">
+  <rect x="78" y="1" width="44" height="33" ry="9" fill="#f00" stroke="#f00" stroke-width=".6"/>
+  <rect x="152" y="1" width="56" height="33" ry="5" fill="#aaf"/>
+  <rect x="3" y="5" width="56" height="17"/>
+  <text x="5.3453908" y="16.634266" fill="#ffffff" font-family="sans-serif" font-size="11px" letter-spacing="0px" stroke-width=".3" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan x="5.3453908" y="16.634266" fill="#ffffff" stroke-width=".3">command</tspan></text>
+  <path d="m64 12 13 0.02" fill="none" marker-start="url(#marker5500)" stroke="#000" stroke-width=".5"/>
+  <path d="m128 13 21 1e-6" fill="none" marker-start="url(#marker4988)" stroke="#000" stroke-width=".5"/>
+  <text x="155.84877" y="10.350011" fill="#ffffff" font-family="sans-serif" font-size="7px" letter-spacing="0px" stroke-width=".2" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan x="155.84877" y="10.350011" fill="#ffffff" stroke-width=".2">Email Server</tspan></text>
+  <text x="83.750519" y="13.872579" fill="#ffffff" font-family="sans-serif" font-size="11px" letter-spacing="0px" stroke-width=".3" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan x="83.750519" y="13.872579">Email</tspan><tspan x="83.750519" y="27.101746">Check</tspan></text>
+  <g transform="matrix(.9 0 0 .9 18 -51)">
+   <path d="m165 72 16 11 16-11z" fill="#fea"/>
+   <path d="m165 81c0-5 0.03-8 0.07-8 0.04 0 4 2 8 5 4 3 8 5 8 5 0.07-0.02 3-2 7-5 4-3 7-5 8-5l0.6-0.4v17h-31z" fill="#ffd42a"/>
+  </g>
+  <g transform="matrix(.5 0 0 .5 39 -17)">
+   <path d="m165 72 16 11 16-11z" fill="#fea"/>
+   <path d="m165 81c0-5 0.03-8 0.07-8 0.04 0 4 2 8 5 4 3 8 5 8 5 0.07-0.02 3-2 7-5 4-3 7-5 8-5l0.6-0.4v17h-31z" fill="#ffd42a"/>
+  </g>
+  <text x="126.11872" y="20.313311" fill="#ff0000" font-family="sans-serif" font-size="6px" letter-spacing="0px" stroke-width=".1" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan x="126.11872" y="20.313311" fill="#ff0000" stroke-width=".1">Unread</tspan></text>
+  <text x="122.05622" y="34.892647" fill="#000000" font-family="sans-serif" font-size="4px" letter-spacing="0px" stroke-width=".09" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan x="122.05622" y="34.892647" stroke-width=".09">user@gmail.com</tspan></text>
+  <path d="m146 7-21 1e-6" fill="none" marker-start="url(#marker4988-6)" stroke="#000" stroke-width=".5"/>
+  <g>
+   <text x="123.39941" y="6.3595309" fill="#008000" font-family="sans-serif" font-size="5px" letter-spacing="0px" stroke-width=".1" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan x="123.39941" y="6.3595309" fill="#008000" stroke-width=".1">Unread ?</tspan></text>
+   <ellipse cx="144" cy="24" rx="3" ry="3" fill="#f00" stroke="#000" stroke-width=".3"/>
+   <text x="143.5488" y="24.518715" fill="#ffffff" font-family="sans-serif" font-size="3px" letter-spacing="0px" stroke-width=".3" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan x="143.5488" y="24.518715" fill="#ffffff" font-size="3px" stroke-width=".3">1</tspan></text>
+  </g>
+ </g>
+</svg>

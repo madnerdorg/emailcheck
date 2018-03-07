@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="205mm" height="76mm" version="1.1" viewBox="0 0 205 76" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <marker id="marker5500" style="overflow:visible" orient="auto">
+   <g transform="scale(-1)" style="stroke:#000">
+    <path d="m-4-4 4 4" style="fill-rule:evenodd;stroke-linecap:round;stroke-width:.8;stroke:#000"/>
+    <path d="m-1-4 4 4" style="fill-rule:evenodd;stroke-linecap:round;stroke-width:.8;stroke:#000"/>
+    <path d="m1-4 4 4" style="fill-rule:evenodd;stroke-linecap:round;stroke-width:.8;stroke:#000"/>
+    <path d="m-4 4 4-4" style="fill-rule:evenodd;stroke-linecap:round;stroke-width:.8;stroke:#000"/>
+    <path d="m-1 4 4-4" style="fill-rule:evenodd;stroke-linecap:round;stroke-width:.8;stroke:#000"/>
+    <path d="m1 4 4-4" style="fill-rule:evenodd;stroke-linecap:round;stroke-width:.8;stroke:#000"/>
+   </g>
+  </marker>
+  <marker id="marker4988" style="overflow:visible" orient="auto">
+   <g transform="scale(-1)" style="stroke:#000">
+    <path d="m-4-4 4 4" style="fill-rule:evenodd;stroke-linecap:round;stroke-width:.8;stroke:#000"/>
+    <path d="m-1-4 4 4" style="fill-rule:evenodd;stroke-linecap:round;stroke-width:.8;stroke:#000"/>
+    <path d="m1-4 4 4" style="fill-rule:evenodd;stroke-linecap:round;stroke-width:.8;stroke:#000"/>
+    <path d="m-4 4 4-4" style="fill-rule:evenodd;stroke-linecap:round;stroke-width:.8;stroke:#000"/>
+    <path d="m-1 4 4-4" style="fill-rule:evenodd;stroke-linecap:round;stroke-width:.8;stroke:#000"/>
+    <path d="m1 4 4-4" style="fill-rule:evenodd;stroke-linecap:round;stroke-width:.8;stroke:#000"/>
+   </g>
+  </marker>
+  <marker id="marker4988-6" style="overflow:visible" orient="auto">
+   <g transform="scale(-1)" style="stroke:#000">
+    <path d="m-4-4 4 4" style="fill-rule:evenodd;stroke-linecap:round;stroke-width:.8;stroke:#000"/>
+    <path d="m-1-4 4 4" style="fill-rule:evenodd;stroke-linecap:round;stroke-width:.8;stroke:#000"/>
+    <path d="m1-4 4 4" style="fill-rule:evenodd;stroke-linecap:round;stroke-width:.8;stroke:#000"/>
+    <path d="m-4 4 4-4" style="fill-rule:evenodd;stroke-linecap:round;stroke-width:.8;stroke:#000"/>
+    <path d="m-1 4 4-4" style="fill-rule:evenodd;stroke-linecap:round;stroke-width:.8;stroke:#000"/>
+    <path d="m1 4 4-4" style="fill-rule:evenodd;stroke-linecap:round;stroke-width:.8;stroke:#000"/>
+   </g>
+  </marker>
+  <marker id="marker5500-8" style="overflow:visible" orient="auto">
+   <g transform="scale(-1)" style="stroke:#000">
+    <path d="m-4-4 4 4" style="fill-rule:evenodd;stroke-linecap:round;stroke-width:.8;stroke:#000"/>
+    <path d="m-1-4 4 4" style="fill-rule:evenodd;stroke-linecap:round;stroke-width:.8;stroke:#000"/>
+    <path d="m1-4 4 4" style="fill-rule:evenodd;stroke-linecap:round;stroke-width:.8;stroke:#000"/>
+    <path d="m-4 4 4-4" style="fill-rule:evenodd;stroke-linecap:round;stroke-width:.8;stroke:#000"/>
+    <path d="m-1 4 4-4" style="fill-rule:evenodd;stroke-linecap:round;stroke-width:.8;stroke:#000"/>
+    <path d="m1 4 4-4" style="fill-rule:evenodd;stroke-linecap:round;stroke-width:.8;stroke:#000"/>
+   </g>
+  </marker>
+  <radialGradient id="radialGradient10963" cx="31" cy="58" r="32" gradientTransform="matrix(.9 0 0 .6 6 26)" gradientUnits="userSpaceOnUse">
+   <stop style="stop-color:#f55" offset="0"/>
+   <stop style="stop-color:#f55;stop-opacity:0" offset="1"/>
+  </radialGradient>
+ </defs>
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g transform="translate(-3 -1)">
+  <rect x="78" y="1" width="44" height="33" ry="9" style="fill:#f00;stroke-width:.6;stroke:#f00"/>
+  <rect x="152" y="1" width="56" height="33" ry="5" style="fill:#aaf"/>
+  <rect x="3" y="5" width="56" height="17"/>
+  <text x="5.3453908" y="16.634266" style="fill:#ffffff;font-family:sans-serif;font-size:11px;letter-spacing:0px;line-height:1.25;stroke-width:.3;word-spacing:0px" xml:space="preserve"><tspan x="5.3453908" y="16.634266" style="fill:#ffffff;stroke-width:.3">ws_send</tspan></text>
+  <path d="m64 12 13 0.02" style="fill:none;marker-start:url(#marker5500);stroke-width:.5;stroke:#000"/>
+  <path d="m128 13 21 1e-6" style="fill:none;marker-start:url(#marker4988);stroke-width:.5;stroke:#000"/>
+  <text x="155.84877" y="10.350011" style="fill:#ffffff;font-family:sans-serif;font-size:7px;letter-spacing:0px;line-height:1.25;stroke-width:.2;word-spacing:0px" xml:space="preserve"><tspan x="155.84877" y="10.350011" style="fill:#ffffff;stroke-width:.2">Email Server</tspan></text>
+  <text x="83.750519" y="13.872579" style="fill:#ffffff;font-family:sans-serif;font-size:11px;letter-spacing:0px;line-height:1.25;stroke-width:.3;word-spacing:0px" xml:space="preserve"><tspan x="83.750519" y="13.872579" style="fill:#ffffff;stroke-width:.3">Email</tspan><tspan x="83.750519" y="27.101746" style="fill:#ffffff;stroke-width:.3">Check</tspan></text>
+  <g transform="matrix(.9 0 0 .9 18 -51)">
+   <path d="m165 72 16 11 16-11z" style="fill:#fea"/>
+   <path d="m165 81c0-5 0.03-8 0.07-8 0.04 0 4 2 8 5 4 3 8 5 8 5 0.07-0.02 3-2 7-5 4-3 7-5 8-5l0.6-0.4v17h-31z" style="fill:#ffd42a"/>
+  </g>
+  <g transform="matrix(.5 0 0 .5 39 -17)">
+   <path d="m165 72 16 11 16-11z" style="fill:#fea"/>
+   <path d="m165 81c0-5 0.03-8 0.07-8 0.04 0 4 2 8 5 4 3 8 5 8 5 0.07-0.02 3-2 7-5 4-3 7-5 8-5l0.6-0.4v17h-31z" style="fill:#ffd42a"/>
+  </g>
+  <text x="126.11872" y="20.313311" style="fill:#ff0000;font-family:sans-serif;font-size:6px;letter-spacing:0px;line-height:1.25;stroke-width:.1;word-spacing:0px" xml:space="preserve"><tspan x="126.11872" y="20.313311" style="fill:#ff0000;stroke-width:.1">Unread</tspan></text>
+  <text x="122.05622" y="34.892647" style="fill:#000000;font-family:sans-serif;font-size:4px;letter-spacing:0px;line-height:1.25;stroke-width:.09;word-spacing:0px" xml:space="preserve"><tspan x="122.05622" y="34.892647" style="stroke-width:.09">user@gmail.com</tspan></text>
+  <path d="m146 7-21 1e-6" style="fill:none;marker-start:url(#marker4988-6);stroke-width:.5;stroke:#000"/>
+  <text x="123.39941" y="6.3595309" style="fill:#008000;font-family:sans-serif;font-size:5px;letter-spacing:0px;line-height:1.25;stroke-width:.1;word-spacing:0px" xml:space="preserve"><tspan x="123.39941" y="6.3595309" style="fill:#008000;stroke-width:.1">Unread ?</tspan></text>
+  <ellipse cx="144" cy="24" rx="3" ry="3" style="fill:#f00;stroke-width:.3;stroke:#000"/>
+  <text x="143.5488" y="24.518715" style="fill:#ffffff;font-family:sans-serif;font-size:3px;letter-spacing:0px;line-height:1.25;stroke-width:.3;word-spacing:0px" xml:space="preserve"><tspan x="143.5488" y="24.518715" style="fill:#ffffff;font-size:3px;stroke-width:.3">1</tspan></text>
+  <path d="m29 35 0.02-13" style="fill:none;marker-start:url(#marker5500-8);stroke-width:.5;stroke:#000"/>
+  <text x="31.669903" y="31.751852" style="fill:#000000;font-family:sans-serif;font-size:3px;letter-spacing:0px;line-height:1.25;stroke-width:.09;word-spacing:0px" xml:space="preserve"><tspan x="31.669903" y="31.751852" style="stroke-width:.09">ws://localhost:42001</tspan></text>
+  <rect x="17" y="40" width="30" height="23" style="fill-opacity:0;stroke-opacity:0"/>
+  <rect x="10" y="53" width="41" height="12" style="fill-opacity:.8;fill:#d40000;stroke-width:.2;stroke:#d40000"/>
+  <path d="m10 65h41" style="fill:none;stroke-width:.3px;stroke:#000"/>
+  <rect x="10" y="65" width="41" height="12" style="fill:#ac9393;stroke-width:.2;stroke:#ac9393"/>
+  <ellipse cx="32" cy="59" rx="28" ry="18" style="fill:url(#radialGradient10963)"/>
+  <text x="17.497612" y="46.191494" style="fill:#ff0000;font-family:sans-serif;font-size:11px;letter-spacing:0px;line-height:1.25;stroke-width:.3;word-spacing:0px" xml:space="preserve"><tspan x="17.497612" y="46.191494" style="fill:#ff0000;stroke-width:.3">Leds</tspan></text>
+ </g>
+</svg>
